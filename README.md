@@ -1,39 +1,25 @@
 # Nyxthera Labs
 
-**We build digital companions worth caring for.**
+Official company website for Nyxthera Labs.
 
-Nyxthera Labs is an AI-native software company pioneering a new category of digital companions.
+## Stack
 
-Our mission is to engineer software that people don't simply use—they genuinely care about.
+Astro 7, TypeScript, Markdown/MDX, and CSS.
 
----
+## Development
 
-## Philosophy
+```bash
+npm install
+npm run dev
+```
 
-Technology becomes meaningful when it builds lasting relationships.
+## Verification
 
-At Nyxthera Labs, we believe:
+```bash
+npm run check
+npm run build
+```
 
-> **The relationship is the product.**
+## Architecture
 
----
-
-## Repository
-
-This repository contains the official website for Nyxthera Labs.
-
----
-
-## Status
-
-Genesis
-
-Version 0.1.0
-
-Currently under active development.
-
----
-
-## Licence
-
-Licence to be determined.
+The Labs website is a static, content-oriented public property. Nyxthera itself is a separate web application with its own authenticated product architecture.
