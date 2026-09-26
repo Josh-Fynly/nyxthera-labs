@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://josh-fynly.github.io/nyxthera-labs/sitemap.xml
